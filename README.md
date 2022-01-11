@@ -1,1 +1,14 @@
-# pic
+#Genus
+-Terebralia 
+-cassidula
+-Telescopium
+-Littoraria
+-Ellobium 
+-Cerithidea 
+-Chicoreus
+-Isognomon
+-Nerita
+-Barbatia
+-Polymesoda
+-Clypeomorus
+-Saccostrea
